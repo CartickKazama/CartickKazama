@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CartickKazama
+- 👋 Hi, I’m Kartik Singh
 - 👀 I’m interested in Fan Club A.I art and football tactical graph
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on ...
